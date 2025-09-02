@@ -1,0 +1,23 @@
+{
+  "name": "Green Project",
+  "short_name": "Green Project",
+  "description": "Leading consulting firm providing strategic insights and solutions for businesses across industries.",
+  "icons": [
+    {
+      "src": "/images/eco-house.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
